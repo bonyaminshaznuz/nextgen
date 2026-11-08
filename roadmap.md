@@ -1,0 +1,5 @@
+- [x] HAW NextGen site with real Instagram/LinkedIn data
+- [x] Professional business-style blocks
+- [x] Newsletter signup option
+- [ ] Make every page work on phone, tablet and desktop
+- [ ] Upload cleaned source to the requested GitHub repository (needs GitHub authorization)
